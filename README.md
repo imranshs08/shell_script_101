@@ -423,6 +423,12 @@ check_status() {
 
 ## ✅ Progress Tracker
 
+To track your progress, simply change `[ ]` to `[x]` inside the markdown file.
+
+**Example:**
+- [x] Day 1: Projects & Intro (Completed!)
+
+**Your Checklist:**
 - [ ] Day 1: Projects & Intro
 - [ ] Day 2: Basic Setup
 - [ ] Day 3: Variables
