@@ -434,7 +434,7 @@ Track your journey! Mark the status and log the date when you finish a day.
 
 | Status | Day | Topic | Date Completed |
 | :---: | :--- | :--- | :--- |
-| [ ] | Day 1 | Projects & Intro | |
+| [x ] | Day 1 | Projects & Intro | *Jan 07, 2026*  |
 | [ ] | Day 2 | Basic Setup | |
 | [ ] | Day 3 | Variables | |
 | [ ] | Day 4 | Error Handling | |

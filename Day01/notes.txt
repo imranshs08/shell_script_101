@@ -6,15 +6,86 @@ VIDEO: https://www.youtube.com/watch?v=sv6U1rDI3rw
 [ NOTES ]
 
 1. Key Concepts:
-   -
-   -
+   Going to learn below tasks :
+      - Automate the backup of dabases and schedule it weekly
+      - Automate the Database Upgrade using shell Script
+      - Script to generate alart in Slack / Pagerduty whenever any services goes down in system
+      - Script to check list of active servcies in Linux
+      - Script to check available disk in each drive and generate alert when it crosses 80% usuage
+      - Script to clean the disk space on regular internal for logs older than 1 week
+      - Script to automate the software installation in Linux boxes.
+      - Script to check the remote connectivity of 1000 system in your infrastrcutre and generate alert if any system is down.
+      - Script to start a down services in system automatically.
+      - Script to connect to databases and check all the running processes.
+      - Script to send email when the free RAM is less than 20% left.
+      - Script to unmount the disk when it crosses 80% usage.
+      - Script to create databases
+      - Script to clone git repo and upload the git changes
+      - Script to kill a process in Linux system
+      - Script to get CPU load alert.
+      - Script to transfer files from one machine to another machine.
+      - Script to shutdown 100 systems in single goes
+      - Script to purge database binary logs automatically. 
+      - Script to get names of users who logged in to Linux system in last 30 days.
+      - Script to change the user password automatically
+      - Script to check a software installed in your system or not.
+      - Script to know the OS release version/OS type and install software accordingly.
+      - Script to check all the ports open in system and print its names
+      - Script to check the users list having root permissions.
 
 2. Commands Learned:
-   -
+   - NA
 
 3. Script Logic / Algorithms:
-   -
+   - NA
 
 4. Bugs / Errors Encountered:
-   -
+   - NA
+
+===========================================================================================
+
+What is Shell Script ?
+
+A shell script is a file that contains a series of commands that are executed by a shell (a program that interprets and executes commands). 
+
+Shell scripts are used to automate tasks and automate repetitive tasks.
+
+Types of Shell Script :
+
+   - Interactive Shell script / Command Line Interface (CLI)
+   - Non-Interactive Shell Script / Batch Script
+
+cat /etc/shells 
+
+
+What is Shebang in Linux Shell Scripting ?
+
+Shebang is a special line at the beginning of a shell script that tells the system which interpreter to use to execute the script. 
+
+Shebang line is also known as hashbang or pound bang or hashpling.
+
+Example:
+   #!/bin/bash
+
+
+#!/bin/bash
+
+# Simple script to display system information
+echo "Hello, $USER!"
+echo "Today is: $(date)"
+echo "Current directory: $(pwd)"
+
+
+How to Give Permission and Run a Shell Script:
+
+1. Add Execution Permission:
+   chmod +x script_name.sh
+
+2. Run the Script:
+   ./script_name.sh
+
+   OR
+
+   bash script_name.sh
+
 
