@@ -1,0 +1,19 @@
+
+# 💡 My Top 3 Scripting Goals (Target: Day 24)
+
+Based on Day 1 Video, here are 3 projects I want to master:
+
+1. **System Health Monitor**: 
+   - Script to check Disk Usage (>80%) and RAM usage (>80%).
+   - Trigger an alert (email/echo) if critical.
+
+2. **Log Cleaner & Archiver**:
+   - Find logs older than 7 days.
+   - Compress them (`tar`) and move them to a backup folder.
+
+3. **Multi-Server Connectivity Checker**:
+   - Loop through a list of server IPs.
+   - Ping them and report which ones are DOWN.
+
+--------------------------------------------------------------------------------
+(Edit this file to pick your own favorites from the Top 25 list!)
