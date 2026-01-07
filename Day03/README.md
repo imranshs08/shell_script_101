@@ -1,7 +1,7 @@
 # ### Day 3 – Real World Use Case (Variables)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=GaAWP1_oDJY)
 - **⏱ Duration:** 18:07
-- **🖼 Thumbnail Insight:** Code-heavy thumbnail implying syntax learning.
+- **🧐 Quick Preview:** Code-heavy thumbnail implying syntax learning.
 - **📘 What You Will Learn:**
     - Defining variables (`name="DevOps"`).
     - Hard coding vs. Dynamic inputs.

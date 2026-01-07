@@ -1,7 +1,7 @@
 # ### Day 15 – Advanced Functions
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=TYQGz-sbM5g)
 - **⏱ Duration:** 07:46
-- **🖼 Thumbnail Insight:** Complex structure / "Pro" mode.
+- **🧐 Quick Preview:** Complex structure / "Pro" mode.
 - **📘 What You Will Learn:**
     - Local vs Global variables.
     - Passing arguments TO functions.

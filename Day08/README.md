@@ -1,7 +1,7 @@
 # ### Day 8 – Real World Use Case (Service Monitoring)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=hbOtJHBb3dg)
 - **⏱ Duration:** 15:01
-- **🖼 Thumbnail Insight:** Server rack with "Status OK/Check" indicators.
+- **🧐 Quick Preview:** Server rack with "Status OK/Check" indicators.
 - **📘 What You Will Learn:**
     - Checking systemd service status (`systemctl`).
     - Automating the "Check" phase.

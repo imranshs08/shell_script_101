@@ -2,7 +2,7 @@
 *(Title says Day 4 in video, mapped sequentially)*
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=AoQcbD_JVOI)
 - **⏱ Duration:** 12:34
-- **🖼 Thumbnail Insight:** Flowchart style logic representation.
+- **🧐 Quick Preview:** Flowchart style logic representation.
 - **📘 What You Will Learn:**
     - `if`, `elif`, `else` statements.
     - Numeric (`-gt`, `-lt`) vs String (`==`, `!=`) comparisons.

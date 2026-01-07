@@ -1,7 +1,7 @@
 # ### Day 4 – Real World Use Case (Error Handling)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=9wYysHEtjmE)
 - **⏱ Duration:** 11:12
-- **🖼 Thumbnail Insight:** Suggests "Alerting" or "Problem Solving".
+- **🧐 Quick Preview:** Suggests "Alerting" or "Problem Solving".
 - **📘 What You Will Learn:**
     - Exit statuses (`$?`).
     - `trap` commands for cleanup.

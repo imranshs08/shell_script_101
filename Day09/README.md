@@ -1,7 +1,7 @@
 # ### Day 9 – Real World Use Case (Alerting)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=LzVl3nU3VpU)
 - **⏱ Duration:** 13:15
-- **🖼 Thumbnail Insight:** Automation flow (Monitor -> Fix).
+- **🧐 Quick Preview:** Automation flow (Monitor -> Fix).
 - **📘 What You Will Learn:**
     - Combining Monitoring + Action.
     - Sending alerts (echo/mail) when state changes.

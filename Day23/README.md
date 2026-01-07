@@ -1,7 +1,7 @@
 # ### Day 23 – Root User Identification
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=Ys1QUu4u3Ws)
 - **⏱ Duration:** 05:54
-- **🖼 Thumbnail Insight:** Security Badge / Root `#` prompt.
+- **🧐 Quick Preview:** Security Badge / Root `#` prompt.
 - **📘 What You Will Learn:**
     - Checking UID 0.
     - Parsing `/etc/passwd` for users with root privileges.

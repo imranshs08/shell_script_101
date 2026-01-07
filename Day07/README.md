@@ -1,7 +1,7 @@
 # ### Day 7 – Real World Use Case (Args)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=tHxYW3WxU3I)
 - **⏱ Duration:** 08:20
-- **🖼 Thumbnail Insight:** Focus on Input/Output.
+- **🧐 Quick Preview:** Focus on Input/Output.
 - **📘 What You Will Learn:**
     - Command Line Arguments (`$1`, `$2`, `$#`, `$@`).
     - Shifting arguments.

@@ -1,7 +1,7 @@
 # ### Day 19 – Disk Usage Systemd Service
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=LyNzWCgzV_g)
 - **⏱ Duration:** 09:31
-- **🖼 Thumbnail Insight:** Gear icon (Service/Daemon).
+- **🧐 Quick Preview:** Gear icon (Service/Daemon).
 - **📘 What You Will Learn:**
     - creating a `.service` file.
     - Running a shell script as a daemon.

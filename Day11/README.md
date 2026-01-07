@@ -1,7 +1,7 @@
 # ### Day 11 – Git Automation
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=SYjAYn6JgHY)
 - **⏱ Duration:** 10:49
-- **🖼 Thumbnail Insight:** Git Logo / Branching visuals.
+- **🧐 Quick Preview:** Git Logo / Branching visuals.
 - **📘 What You Will Learn:**
     - Git commands inside bash.
     - Automating `add`, `commit`, `push`.

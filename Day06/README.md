@@ -2,7 +2,7 @@
 *(Title says Day 6)*
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=wekj43kvKnI)
 - **⏱ Duration:** 10:48
-- **🖼 Thumbnail Insight:** Iteration icons / "Replay" symbols.
+- **🧐 Quick Preview:** Iteration icons / "Replay" symbols.
 - **📘 What You Will Learn:**
     - `for` loops (iterating lists).
     - `while` loops (conditions).

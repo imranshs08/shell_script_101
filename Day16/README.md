@@ -1,7 +1,7 @@
 # ### Day 16 – Curl & API
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=Gm5W9OVWGI8)
 - **⏱ Duration:** 08:54
-- **🖼 Thumbnail Insight:** Cloud / Internet connection.
+- **🧐 Quick Preview:** Cloud / Internet connection.
 - **📘 What You Will Learn:**
     - Making HTTP GET requests.
     - Checking HTTP response headers.

@@ -1,7 +1,7 @@
 # ### Day 14 – Sed (Stream Editor)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=SnIN3VO1aPw)
 - **⏱ Duration:** 16:21
-- **🖼 Thumbnail Insight:** Text replacement / Editing icons.
+- **🧐 Quick Preview:** Text replacement / Editing icons.
 - **📘 What You Will Learn:**
     - `sed` search and replace (`s/foo/bar/g`).
     - Editing files in-place (`-i`).

@@ -1,7 +1,7 @@
 # ### Day 1 – Top 25 Shell Scripting Projects
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=sv6U1rDI3rw)
 - **⏱ Duration:** 09:58
-- **🖼 Thumbnail Insight:** Displays a "Listicle" style, emphasizing the **scope** of what's possible (AWS integration, Jenkins, Docker). It suggests this is a "Roadmap" video.
+- **🧐 Quick Preview:** Displays a "Listicle" style, emphasizing the **scope** of what's possible (AWS integration, Jenkins, Docker). It suggests this is a "Roadmap" video.
 - **📘 What You Will Learn:**
     - High-level overview of 25 practical automation ideas (e.g., User Management, Log Cleaning, AWS Resource tracking).
     - Setting the mindset for "Everything as Code".

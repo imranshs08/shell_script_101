@@ -1,7 +1,7 @@
 # ### Day 10 – Real World Use Case (Log Rotation)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=kIXmCHt_o4c)
 - **⏱ Duration:** 20:56
-- **🖼 Thumbnail Insight:** File icons, zippers, or trash bins implies "Cleanup".
+- **🧐 Quick Preview:** File icons, zippers, or trash bins implies "Cleanup".
 - **📘 What You Will Learn:**
     - Managing disk space.
     - Compressing old logs.

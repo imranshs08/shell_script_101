@@ -1,7 +1,7 @@
 # ### Day 24 – Disk Unmount Automation
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=FJsWleK5HqA)
 - **⏱ Duration:** 03:54
-- **🖼 Thumbnail Insight:** Hard Drive with "Eject" symbol.
+- **🧐 Quick Preview:** Hard Drive with "Eject" symbol.
 - **📘 What You Will Learn:**
     - `umount` command.
     - Safely unmounting (lazy unmount `-l`).

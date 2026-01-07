@@ -1,7 +1,7 @@
 # ### Day 17 – Server Monitoring Dashboard
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=qObBeRn87N8)
 - **⏱ Duration:** 11:46
-- **🖼 Thumbnail Insight:** Dashboard / Matrix style text.
+- **🧐 Quick Preview:** Dashboard / Matrix style text.
 - **📘 What You Will Learn:**
     - Using `top`, `free`, `df` commands in scripts.
     - Formatting output into a dashboard.

@@ -1,7 +1,7 @@
 # ### Day 12 – Grep Command Mastery
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=Db6NSl8FDGA)
 - **⏱ Duration:** 12:27
-- **🖼 Thumbnail Insight:** Search magnifying glass over text.
+- **🧐 Quick Preview:** Search magnifying glass over text.
 - **📘 What You Will Learn:**
     - `grep` basics and detailed flags.
     - Searching recursively (`-r`), ignoring case (`-i`).

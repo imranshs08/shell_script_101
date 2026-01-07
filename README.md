@@ -55,7 +55,7 @@
 ### Day 1 – Top 25 Shell Scripting Projects
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=sv6U1rDI3rw)
 - **⏱ Duration:** 09:58
-- **🖼 Thumbnail Insight:** Displays a "Listicle" style, emphasizing the **scope** of what's possible (AWS integration, Jenkins, Docker). It suggests this is a "Roadmap" video.
+- **🧐 Quick Preview:** Displays a "Listicle" style, emphasizing the **scope** of what's possible (AWS integration, Jenkins, Docker). It suggests this is a "Roadmap" video.
 - **📘 What You Will Learn:**
     - High-level overview of 25 practical automation ideas (e.g., User Management, Log Cleaning, AWS Resource tracking).
     - Setting the mindset for "Everything as Code".
@@ -67,7 +67,7 @@
 ### Day 2 – Real World Use Case (Intro)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=eX7Rykwpqos)
 - **⏱ Duration:** 10:59
-- **🖼 Thumbnail Insight:** Focuses on "The Basics" visually. Critical for beginners.
+- **🧐 Quick Preview:** Focuses on "The Basics" visually. Critical for beginners.
 - **📘 What You Will Learn:**
     - The Shebang (`#!/bin/bash`).
     - Debugging with `set -x`.
@@ -80,7 +80,7 @@
 ### Day 3 – Real World Use Case (Variables)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=GaAWP1_oDJY)
 - **⏱ Duration:** 18:07
-- **🖼 Thumbnail Insight:** Code-heavy thumbnail implying syntax learning.
+- **🧐 Quick Preview:** Code-heavy thumbnail implying syntax learning.
 - **📘 What You Will Learn:**
     - Defining variables (`name="DevOps"`).
     - Hard coding vs. Dynamic inputs.
@@ -93,7 +93,7 @@
 ### Day 4 – Real World Use Case (Error Handling)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=9wYysHEtjmE)
 - **⏱ Duration:** 11:12
-- **🖼 Thumbnail Insight:** Suggests "Alerting" or "Problem Solving".
+- **🧐 Quick Preview:** Suggests "Alerting" or "Problem Solving".
 - **📘 What You Will Learn:**
     - Exit statuses (`$?`).
     - `trap` commands for cleanup.
@@ -107,7 +107,7 @@
 *(Title says Day 4 in video, mapped sequentially)*
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=AoQcbD_JVOI)
 - **⏱ Duration:** 12:34
-- **🖼 Thumbnail Insight:** Flowchart style logic representation.
+- **🧐 Quick Preview:** Flowchart style logic representation.
 - **📘 What You Will Learn:**
     - `if`, `elif`, `else` statements.
     - Numeric (`-gt`, `-lt`) vs String (`==`, `!=`) comparisons.
@@ -120,7 +120,7 @@
 *(Title says Day 6)*
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=wekj43kvKnI)
 - **⏱ Duration:** 10:48
-- **🖼 Thumbnail Insight:** Iteration icons / "Replay" symbols.
+- **🧐 Quick Preview:** Iteration icons / "Replay" symbols.
 - **📘 What You Will Learn:**
     - `for` loops (iterating lists).
     - `while` loops (conditions).
@@ -132,7 +132,7 @@
 ### Day 7 – Real World Use Case (Args)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=tHxYW3WxU3I)
 - **⏱ Duration:** 08:20
-- **🖼 Thumbnail Insight:** Focus on Input/Output.
+- **🧐 Quick Preview:** Focus on Input/Output.
 - **📘 What You Will Learn:**
     - Command Line Arguments (`$1`, `$2`, `$#`, `$@`).
     - Shifting arguments.
@@ -144,7 +144,7 @@
 ### Day 8 – Real World Use Case (Service Monitoring)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=hbOtJHBb3dg)
 - **⏱ Duration:** 15:01
-- **🖼 Thumbnail Insight:** Server rack with "Status OK/Check" indicators.
+- **🧐 Quick Preview:** Server rack with "Status OK/Check" indicators.
 - **📘 What You Will Learn:**
     - Checking systemd service status (`systemctl`).
     - Automating the "Check" phase.
@@ -156,7 +156,7 @@
 ### Day 9 – Real World Use Case (Alerting)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=LzVl3nU3VpU)
 - **⏱ Duration:** 13:15
-- **🖼 Thumbnail Insight:** Automation flow (Monitor -> Fix).
+- **🧐 Quick Preview:** Automation flow (Monitor -> Fix).
 - **📘 What You Will Learn:**
     - Combining Monitoring + Action.
     - Sending alerts (echo/mail) when state changes.
@@ -168,7 +168,7 @@
 ### Day 10 – Real World Use Case (Log Rotation)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=kIXmCHt_o4c)
 - **⏱ Duration:** 20:56
-- **🖼 Thumbnail Insight:** File icons, zippers, or trash bins implies "Cleanup".
+- **🧐 Quick Preview:** File icons, zippers, or trash bins implies "Cleanup".
 - **📘 What You Will Learn:**
     - Managing disk space.
     - Compressing old logs.
@@ -181,7 +181,7 @@
 ### Day 11 – Git Automation
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=SYjAYn6JgHY)
 - **⏱ Duration:** 10:49
-- **🖼 Thumbnail Insight:** Git Logo / Branching visuals.
+- **🧐 Quick Preview:** Git Logo / Branching visuals.
 - **📘 What You Will Learn:**
     - Git commands inside bash.
     - Automating `add`, `commit`, `push`.
@@ -193,7 +193,7 @@
 ### Day 12 – Grep Command Mastery
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=Db6NSl8FDGA)
 - **⏱ Duration:** 12:27
-- **🖼 Thumbnail Insight:** Search magnifying glass over text.
+- **🧐 Quick Preview:** Search magnifying glass over text.
 - **📘 What You Will Learn:**
     - `grep` basics and detailed flags.
     - Searching recursively (`-r`), ignoring case (`-i`).
@@ -205,7 +205,7 @@
 ### Day 13 – Functions & Case Statements
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=zOTAqfVM5NE)
 - **⏱ Duration:** 14:13
-- **🖼 Thumbnail Insight:** Modular blocks / Puzzle pieces.
+- **🧐 Quick Preview:** Modular blocks / Puzzle pieces.
 - **📘 What You Will Learn:**
     - Defining functions for reusability.
     - `case` statements for CLI menus.
@@ -217,7 +217,7 @@
 ### Day 14 – Sed (Stream Editor)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=SnIN3VO1aPw)
 - **⏱ Duration:** 16:21
-- **🖼 Thumbnail Insight:** Text replacement / Editing icons.
+- **🧐 Quick Preview:** Text replacement / Editing icons.
 - **📘 What You Will Learn:**
     - `sed` search and replace (`s/foo/bar/g`).
     - Editing files in-place (`-i`).
@@ -229,7 +229,7 @@
 ### Day 15 – Advanced Functions
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=TYQGz-sbM5g)
 - **⏱ Duration:** 07:46
-- **🖼 Thumbnail Insight:** Complex structure / "Pro" mode.
+- **🧐 Quick Preview:** Complex structure / "Pro" mode.
 - **📘 What You Will Learn:**
     - Local vs Global variables.
     - Passing arguments TO functions.
@@ -241,7 +241,7 @@
 ### Day 16 – Curl & API
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=Gm5W9OVWGI8)
 - **⏱ Duration:** 08:54
-- **🖼 Thumbnail Insight:** Cloud / Internet connection.
+- **🧐 Quick Preview:** Cloud / Internet connection.
 - **📘 What You Will Learn:**
     - Making HTTP GET requests.
     - Checking HTTP response headers.
@@ -253,7 +253,7 @@
 ### Day 17 – Server Monitoring Dashboard
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=qObBeRn87N8)
 - **⏱ Duration:** 11:46
-- **🖼 Thumbnail Insight:** Dashboard / Matrix style text.
+- **🧐 Quick Preview:** Dashboard / Matrix style text.
 - **📘 What You Will Learn:**
     - Using `top`, `free`, `df` commands in scripts.
     - Formatting output into a dashboard.
@@ -265,7 +265,7 @@
 ### Day 18 – Backup Automation
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=IWhxmDX-MDo)
 - **⏱ Duration:** 09:31
-- **🖼 Thumbnail Insight:** Tape drive / Archive zip icon.
+- **🧐 Quick Preview:** Tape drive / Archive zip icon.
 - **📘 What You Will Learn:**
     - Compressing folders with `tar`.
     - Creating timestamped backups (`backup_2023_10_01.tar.gz`).
@@ -278,7 +278,7 @@
 ### Day 19 – Disk Usage Systemd Service
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=LyNzWCgzV_g)
 - **⏱ Duration:** 09:31
-- **🖼 Thumbnail Insight:** Gear icon (Service/Daemon).
+- **🧐 Quick Preview:** Gear icon (Service/Daemon).
 - **📘 What You Will Learn:**
     - creating a `.service` file.
     - Running a shell script as a daemon.
@@ -290,7 +290,7 @@
 ### Day 20 – User Cleanup Automation
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=pMQaTsMPwjg)
 - **⏱ Duration:** 26:57
-- **🖼 Thumbnail Insight:** User icon with "X" mark.
+- **🧐 Quick Preview:** User icon with "X" mark.
 - **📘 What You Will Learn:**
     - `/etc/passwd` parsing.
     - Identifying stale/locked users.
@@ -303,7 +303,7 @@
 ### Day 21 – MySQL Process Monitoring
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=BRQNPVgkMzc)
 - **⏱ Duration:** 11:24
-- **🖼 Thumbnail Insight:** Database icon / SQL syntax.
+- **🧐 Quick Preview:** Database icon / SQL syntax.
 - **📘 What You Will Learn:**
     - Interacting with MySQL via CLI.
     - Parsing `SHOW PROCESSLIST`.
@@ -315,7 +315,7 @@
 ### Day 22 – Advanced Curl (Data Fetching)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=m41brHUWdqY)
 - **⏱ Duration:** 05:54
-- **🖼 Thumbnail Insight:** Weather data / JSON format.
+- **🧐 Quick Preview:** Weather data / JSON format.
 - **📘 What You Will Learn:**
     - Fetching Weather Data (API).
     - Parsing JSON output (briefly, often uses `jq`).
@@ -327,7 +327,7 @@
 ### Day 23 – Root User Identification
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=Ys1QUu4u3Ws)
 - **⏱ Duration:** 05:54
-- **🖼 Thumbnail Insight:** Security Badge / Root `#` prompt.
+- **🧐 Quick Preview:** Security Badge / Root `#` prompt.
 - **📘 What You Will Learn:**
     - Checking UID 0.
     - Parsing `/etc/passwd` for users with root privileges.
@@ -339,7 +339,7 @@
 ### Day 24 – Disk Unmount Automation
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=FJsWleK5HqA)
 - **⏱ Duration:** 03:54
-- **🖼 Thumbnail Insight:** Hard Drive with "Eject" symbol.
+- **🧐 Quick Preview:** Hard Drive with "Eject" symbol.
 - **📘 What You Will Learn:**
     - `umount` command.
     - Safely unmounting (lazy unmount `-l`).

@@ -1,7 +1,7 @@
 # ### Day 2 – Real World Use Case (Intro)
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=eX7Rykwpqos)
 - **⏱ Duration:** 10:59
-- **🖼 Thumbnail Insight:** Focuses on "The Basics" visually. Critical for beginners.
+- **🧐 Quick Preview:** Focuses on "The Basics" visually. Critical for beginners.
 - **📘 What You Will Learn:**
     - The Shebang (`#!/bin/bash`).
     - Debugging with `set -x`.

@@ -1,7 +1,7 @@
 # ### Day 18 – Backup Automation
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=IWhxmDX-MDo)
 - **⏱ Duration:** 09:31
-- **🖼 Thumbnail Insight:** Tape drive / Archive zip icon.
+- **🧐 Quick Preview:** Tape drive / Archive zip icon.
 - **📘 What You Will Learn:**
     - Compressing folders with `tar`.
     - Creating timestamped backups (`backup_2023_10_01.tar.gz`).

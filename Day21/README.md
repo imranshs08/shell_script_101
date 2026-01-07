@@ -1,7 +1,7 @@
 # ### Day 21 – MySQL Process Monitoring
 - **🎥 Video URL:** [Link](https://www.youtube.com/watch?v=BRQNPVgkMzc)
 - **⏱ Duration:** 11:24
-- **🖼 Thumbnail Insight:** Database icon / SQL syntax.
+- **🧐 Quick Preview:** Database icon / SQL syntax.
 - **📘 What You Will Learn:**
     - Interacting with MySQL via CLI.
     - Parsing `SHOW PROCESSLIST`.
