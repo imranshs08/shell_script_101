@@ -423,36 +423,41 @@ check_status() {
 
 ## ✅ Progress Tracker
 
-To track your progress, simply change `[ ]` to `[x]` inside the markdown file.
+Track your journey! Mark the status and log the date when you finish a day.
 
 **Example:**
-- [x] Day 1: Projects & Intro (Completed!)
+| Status | Day | Topic | Date Completed |
+| :---: | :--- | :--- | :--- |
+| [x] | **Day 0** | *Example Day* | *Jan 07, 2026* |
 
-**Your Checklist:**
-- [ ] Day 1: Projects & Intro
-- [ ] Day 2: Basic Setup
-- [ ] Day 3: Variables
-- [ ] Day 4: Error Handling
-- [ ] Day 5: Logic (`if/else`)
-- [ ] Day 6: Loops
-- [ ] Day 7: Arguments
-- [ ] Day 8: Service Monitor
-- [ ] Day 9: Monitoring Logic
-- [ ] Day 10: Log Rotation
-- [ ] Day 11: Git Automation
-- [ ] Day 12: Grep
-- [ ] Day 13: Functions
-- [ ] Day 14: Sed
-- [ ] Day 15: Adv Functions
-- [ ] Day 16: Curl
-- [ ] Day 17: Dashboard
-- [ ] Day 18: Backup
-- [ ] Day 19: Systemd Services
-- [ ] Day 20: User Cleanup
-- [ ] Day 21: MySQL Monitor
-- [ ] Day 22: Data Fetching
-- [ ] Day 23: Root Audit
-- [ ] Day 24: Unmount Logic
+**Your Roadmap:**
+
+| Status | Day | Topic | Date Completed |
+| :---: | :--- | :--- | :--- |
+| [ ] | Day 1 | Projects & Intro | |
+| [ ] | Day 2 | Basic Setup | |
+| [ ] | Day 3 | Variables | |
+| [ ] | Day 4 | Error Handling | |
+| [ ] | Day 5 | Logic (`if/else`) | |
+| [ ] | Day 6 | Loops | |
+| [ ] | Day 7 | Arguments | |
+| [ ] | Day 8 | Service Monitor | |
+| [ ] | Day 9 | Monitoring Logic | |
+| [ ] | Day 10 | Log Rotation | |
+| [ ] | Day 11 | Git Automation | |
+| [ ] | Day 12 | Grep | |
+| [ ] | Day 13 | Functions | |
+| [ ] | Day 14 | Sed | |
+| [ ] | Day 15 | Adv Functions | |
+| [ ] | Day 16 | Curl | |
+| [ ] | Day 17 | Dashboard | |
+| [ ] | Day 18 | Backup | |
+| [ ] | Day 19 | Systemd Services | |
+| [ ] | Day 20 | User Cleanup | |
+| [ ] | Day 21 | MySQL Monitor | |
+| [ ] | Day 22 | Data Fetching | |
+| [ ] | Day 23 | Root Audit | |
+| [ ] | Day 24 | Unmount Logic | |
 
 ---
 
