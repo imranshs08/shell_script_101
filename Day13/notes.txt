@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------
+DAY 13: Functions & Case Statements
+VIDEO: https://www.youtube.com/watch?v=zOTAqfVM5NE
+--------------------------------------------------------------------------------
+
+[ NOTES ]
+
+1. Key Concepts:
+   -
+   -
+
+2. Commands Learned:
+   -
+
+3. Script Logic / Algorithms:
+   -
+
+4. Bugs / Errors Encountered:
+   -
+

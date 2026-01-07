@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------
+DAY 5: Real World Use Case (Logic)
+VIDEO: https://www.youtube.com/watch?v=AoQcbD_JVOI
+--------------------------------------------------------------------------------
+
+[ NOTES ]
+
+1. Key Concepts:
+   -
+   -
+
+2. Commands Learned:
+   -
+
+3. Script Logic / Algorithms:
+   -
+
+4. Bugs / Errors Encountered:
+   -
+
