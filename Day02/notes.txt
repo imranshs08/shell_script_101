@@ -5,16 +5,102 @@ VIDEO: https://www.youtube.com/watch?v=eX7Rykwpqos
 
 [ NOTES ]
 
+Project : How to install Software in multiple flavours of OS ?
+
 1. Key Concepts:
-   -
+   - Variables
+   - If-Else Condition
    -
 
 2. Commands Learned:
-   -
+   - host=$(hostname)
 
 3. Script Logic / Algorithms:
-   -
+   - 
 
 4. Bugs / Errors Encountered:
    -
 
+===========================================================================================
+
+What is a Shell Variables
+
+A shell variable is a character string to which we assign a value. The value assigned could be a number, text, filename, device, or any other type of data.
+
+- Assignment: `VARIABLE_NAME="value"` (Note: No spaces around the `=` sign)
+- Accessing: Use the `$` prefix to reference the variable (e.g., `echo $VARIABLE_NAME`)
+- Purpose: Used to store information that needs to be reused or changed dynamically within a script.
+
+var="devopsclass"
+
+echo $var
+
+devopsclass
+
+Operations with Variables:
+
+1. Arithmetic Expansion:
+   Perform mathematical calculations using the `$((expression))` syntax.
+   Example:
+   num1=10
+   num2=5
+   sum=$((num1 + num2))       # Addition
+   sub=$((num1 - num2))       # Subtraction
+   mul=$((num1 * num2))       # Multiplication
+   div=$((num1 / num2))       # Division
+   mod=$((num1 % num2))       # Modulo (Remainder)
+
+2. Command Substitution:
+   Capture the output of a command and assign it to a variable using `$(command)`.
+   Example:
+   current_user=$(whoami)
+   files_count=$(ls | wc -l)
+
+3. String Concatenation:
+   Join multiple variables or strings by placing them side-by-side.
+   Example:
+   first_name="John"
+   last_name="Doe"
+   full_name="${first_name} ${last_name}"
+
+4. Read-only Variables:
+   Prevent a variable from being modified after assignment.
+   Example:
+   readonly API_KEY="12345-ABCDE"
+
+5. Special Variables:
+   Predefined variables that provide information about the script's execution.
+   - `$0`: The name of the shell script.
+   - `$1`, `$2`, ...: Positional parameters (arguments passed to the script).
+   - `$#`: The number of arguments passed to the script.
+   - `$?`: The exit status of the last command executed (0 for success).
+   - `$$`: The process ID (PID) of the current shell.
+
+Conditional Statements (If-Else):
+
+Use `if`, `elif`, `else`, and `fi` to execute code based on conditions.
+Example:
+age=18
+if [ $age -ge 18 ]; then
+   echo "You are an adult."
+elif [ $age -gt 12 ]; then
+   echo "You are a teenager."
+else
+   echo "You are a child."
+fi
+Explanation:
+- `if [ condition ]; then`: Evaluates a condition. Note the mandatory spaces inside the brackets `[ ]`.
+- `elif [ condition ]; then`: Short for "else if," allows checking multiple conditions.
+- `else`: Executes if none of the previous conditions are true.
+- `fi`: Marks the end of the if-block (it is "if" reversed).
+
+Common Comparison Operators:
+- `-eq`: Equal to
+- `-ne`: Not equal to
+- `-gt`: Greater than
+- `-ge`: Greater than or equal to
+- `-lt`: Less than
+- `-le`: Less than or equal to
+- `==`: String equality
+- `!=`: String inequality
+- `-z`: Check if string is empty
